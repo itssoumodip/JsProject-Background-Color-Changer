@@ -1,2 +1,3 @@
 # JsProject-Background-Color-Changer
-This repository contains a web-based application that changes the background color of the webpage every second when the "Start" button is clicked. The color-changing functionality stops when the "Stop" button is clicked. This is achieved using HTML, CSS, and JavaScript.
+
+This project is a simple web application that changes the background color of the page every second upon clicking the "Start" button. The color changing stops when the "Stop" button is clicked. The colors are randomly generated using JavaScript.
